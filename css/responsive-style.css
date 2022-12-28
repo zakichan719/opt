@@ -1,0 +1,33 @@
+/*
+#####################################
+  header responsive width <= 991px for [[Mobile]]
+#####################################
+*/
+@media (max-width:991px){
+
+    :root {
+       --navbar-background-color: #485460;
+       
+       --link-menu-color: #ecf0f1;
+       --link-menu-background-color: black  ;
+       --link-menu-color-hover:black ;
+       --link-menu-background-color-hover: #ecf0f1;
+ 
+       /*    */
+       
+       --drop-link-color: #ecf0f1;
+       --drop-link-background-color: #151515;
+       --drop-link-color-hover: ;
+       --drop-link-background-color-hover: #bdc3c7;
+     }
+ 
+ 
+     
+        
+        
+        
+ }
+  
+  
+  
+ /*---------------------------------------*/ 
